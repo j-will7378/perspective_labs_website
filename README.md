@@ -1,2 +1,2 @@
-# perspective_labs_websote
+# perspective_labs_website
 Website for my UX Research consultancy
